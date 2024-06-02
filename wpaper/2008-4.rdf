@@ -1,0 +1,26 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name:  Igal Milchtaich
+Author-X-Name-First: Igal
+Author-X-Name-Last: Milchtaich
+Author-Email: milchti@mail.biu.ac.il
+Author-Workplace-Name: Bar Ilan University
+Title: Static Stability in Games
+Abstract: Static stability of equilibrium in strategic games differs from dynamic stability in not being
+linked to any particular dynamical system. In other words, it does not make any assumptions
+about off-equilibrium behavior. Examples of static notions of stability include evolutionarily
+stable strategy (ESS) and continuously stable strategy (CSS), both of which are meaningful or
+justifiable only for particular classes of games, namely, symmetric multilinear games or
+symmetric games with a unidimensional strategy space, respectively. This paper presents a
+general notion of local static stability, of which the above two are essentially special cases. It
+is applicable to virtually all n-person strategic games, both symmetric and asymmetric, with
+non-discrete strategy spaces.
+Creation-Date:  2008-12
+File-URL: https://www2.biu.ac.il/soc/ec/wp/2008-04/2008-04.pdf
+File-Format: Application/pdf
+File-Function: Working paper
+
+Number: 2008-04
+Classification-JEL: C72
+Keywords: Stability of equilibrium, static stability
+Handle: RePEc:biu:wpaper:2008-04
+
