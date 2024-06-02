@@ -1,0 +1,16 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name:  Igal Milchtaich
+Author-X-Name-First: Igal
+Author-X-Name-Last: Milchtaich
+Author-Email: Igal.Milchtaich@biu.ac.il
+Author-Workplace-Name: Bar-Ilan University
+Title:  Schedulers, Potentials and Weak Potentials in Weakly Acyclic Games
+Abstract:  In a number of large, important families of finite games, not only do pure-strategy Nash equilibria always exist but they are also reachable from any initial strategy profile by some sequence of myopic single-player moves to a better or best-response strategy. This weak acyclicity property is shared, for example, by all perfect-information extensive-form games, which are generally not acyclic since even sequences of best-improvement steps may cycle. Weak acyclicity is equivalent to the existence of weak potential, which unlike a potential increases along some rather than every sequence as above, as well as to the existence of an acyclic scheduler, which guarantees convergence to equilibrium by disallowing certain (improvement) moves. A number of sufficient conditions for acyclicity and weak acyclicity are known.
+Length:  8 pages
+Creation-Date: 2013-03
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2013-03.pdf
+File-Format: Application/pdf
+File-Function: Working paper
+Number: 2013-03
+Handle: RePEc:biu:wpaper:2013-03
+

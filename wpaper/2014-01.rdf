@@ -1,0 +1,21 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name:  Erel Segal-Halevi
+Author-X-Name-First: Erel 
+Author-X-Name-Last: Segal-Halevi
+Author-Name:  Shmuel Nitzan
+Author-X-Name-First: Shmuel
+Author-X-Name-Last: Nitzan
+Author-Email: Shmuel.Nitzan@biu.ac.il
+Author-Workplace-Name: Bar-Ilan University
+Title:  Cake Cutting – Fair and Square
+Abstract:  The classic fair cake-cutting problem [Steinhaus, 1948] is extended by introducing geometric constraints on the allocated pieces. Specifically, agents may demand to get their share as a square or a rectangle with a bounded length/width ratio. This is a plausible constraint in realistic cake-cutting applications, notably in urban and agricultural economics where the “cake” is land. Geometric constraints greatly affect the classic results of the fair division theory. The existence of a proportional division, giving each agent 1/n of his total cake value, is no longer guaranteed. We prove that it is impossible to guarantee each agent more than 1/(2n-1) of his total value. Moreover, we provide procedures implementing partially proportional division, giving each agent 1/(An-B) of his total value, where A and B are constants depending on the shape of the cake and its pieces. Fairness and social welfare implications of these procedures are analyzed in various scenarios.
+Length:  44 pages
+Creation-Date: 2014-01
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2014-01.pdf
+File-Format: Application/pdf
+File-Function: Working paper
+Number: 2014-01
+Classification-JEL: 
+Keywords: fair division, cake cutting, land division, geometry, non-additive utilities, social welfare
+Handle: RePEc:biu:wpaper:2014-01
+
