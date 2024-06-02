@@ -1,0 +1,17 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name:    Igal Milchtaich
+Author-X-Name-First:   Igal 
+Author-X-Name-Last:  Milchtaich
+Author-Email: igal.milchtaich@biu.ac.il
+Author-Workplace-Name: Bar-Ilan University
+Title: Polyequilibrium
+Abstract:Polyequilibrium is a generalization of Nash equilibrium that is applicable to any strategic game, whether finite or otherwise, and to dynamic games, with perfect or imperfect information. It differs from equilibrium in specifying strategies that players do not choose and by requiring an after-the-fact justification for the exclusion of these strategies rather than the retainment of the non-excluded ones. Specifically, for each excluded strategy of each player there must be a nonexcluded one that responds to every profile of non-excluded strategies of the other players at least as well as the first strategy does. A particular result (e.g., Pareto efficiency of the payoffs) is said to hold in a polyequilibrium if it holds for all non-excluded profiles. Such a result does not necessarily hold in any Nash equilibrium in the game. In this sense, the generalization proposed in this work extends the set of justifiable predictions concerning a game’s results.
+Length:  34 pages
+Creation-Date:  2015-06
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2015-06.pdf
+File-Format: Application/pdf
+File-Function: Working paper
+Number: 2015-06
+Classification-JEL:
+Keywords:Polyequilibrium, Polystrategy, Coarsening of Nash equilibrium, Subgame perfection, Bayesian perfection.
+Handle: RePEc:biu:wpaper:2015-06

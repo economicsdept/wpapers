@@ -1,0 +1,20 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Yuval Heller 
+Author-X-Name-First: Yuval 
+Author-X-Name-Last: Heller 
+Author-Email: Yuval.Heller@biu.ac.il
+Author-Workplace-Name: Bar-Ilan University
+Author-Name: Erik Mohlin
+Author-X-Name-First: Erik 
+Author-X-Name-Last: Mohlin
+Title: Observations on Cooperation.
+Abstract:We study environments in which agents are randomly matched to play a Prisoner’s Dilemma, and each player observes a few of the partner’s past actions against previous opponents. We depart from the existing related literature by allowing a small fraction of the population to be commitment types. The presence of committed agents destabilizes previously proposed mechanisms for sustaining cooperation. We present a novel intuitive combination of strategies that sustains cooperation in various environments. Moreover, we show that under an additional assumption of stationarity, this combination of strategies is essentially the unique mechanism to support full cooperation, and it is robust to various perturbations. Finally, we extend the results to a setup in which agents also observe actions played by past opponents against the current partner, and we characterize which observation structure is optimal for sustaining cooperation.
+Length:	62 pages
+Creation-Date:  2017-12
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2017-12.pdf
+File-Format: Application/pdf
+File-Function: Working paper
+Number: 2017-12
+Classification-JEL: C72, C73, D83.
+Keywords:Community enforcement; indirect reciprocity; random matching; Prisoner’s Dilemma; image scoring.
+Handle: RePEc:biu:wpaper:2017-12

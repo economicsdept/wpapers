@@ -1,0 +1,23 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Daniel Levy
+Author-X-Name-First: Daniel  
+Author-X-Name-Last: Levy 
+Author-Email: Daniel.Levy@biu.ac.il
+Author-Workplace-Name: Bar-Ilan University
+Author-Name: Tamir Mayer
+Author-X-Name-First: Tamir  
+Author-X-Name-Last: Mayer
+Author-Name:  Alon Raviv
+Author-X-Name-First:  Alon Raviv  
+Author-X-Name-Last: Raviv
+Title:Economists in the 2008 Financial Crisis: Slow to See, Fast to Act
+Abstract:We study the economics and finance scholars’ reaction to the 2008 financial crisis using machine learning language analyses methods of Latent Dirichlet Allocation and dynamic topic modelling algorithms, to analyze the texts of 14,270 NBER working papers covering the 1999–2016 period. We find that academic scholars as a group were insufficiently engaged in crises’ studies before 2008. As the crisis unraveled, however, they switched their focus to studying the crisis, its causes, and consequences. Thus, the scholars were “slow-to-see,” but they were “fast-to-act.” Their initial response to the ongoing Covid-19 crisis is consistent with these conclusions.
+Length:	89 pages
+Creation-Date:  2022-02
+File-URL:https://econ.biu.ac.il/sites/econ/files/working-papers/2022-01.pdf
+File-Format: Application/pdf
+File-Function: Working paper
+Number: 2022-01
+Classification-JEL:E32, E44, E50, F30, G01, G20 
+Keywords:  Financial crisis, Economic Crisis, Great recession, NBER working papers, LDA textual analysis, Topic modeling, Dynamic Topic Modeling, Machine learning
+Handle: RePEc:biu:wpaper:2022-01

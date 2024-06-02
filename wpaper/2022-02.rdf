@@ -1,0 +1,20 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Daniel Levy
+Author-X-Name-First: Daniel  
+Author-X-Name-Last: Levy 
+Author-Email: Daniel.Levy@biu.ac.il
+Author-Workplace-Name: Bar-Ilan University
+Author-Name:Hashem Dezhbakhsh
+Author-X-Name-First: Hashem  
+Author-X-Name-Last: Dezhbakhsh
+Title: Interpolation and Shock Persistence of Prewar U.S. Macroeconomic Time Series: A Reconsideration
+Abstract: The U.S. prewar output series exhibit smaller shock-persistence than postwar-series. Some studies suggest this may be due to linear interpolation used to generate missing prewar data. Monte Carlo simulations that support this view generate large standard-errors, making such inference imprecise. We assess analytically the effect of linear interpolation on a nonstationary process. We find that interpolation indeed reduces shock-persistence, but the interpolated series can still exhibit greater shock-persistence than a pure random walk. Moreover, linear interpolation makes the series periodically nonstationary, with parameters of the data generating process and the length of the interpolation time-segments affecting shock-persistence in conflicting ways.
+Length:	26 pages
+Creation-Date:  2022-03
+File-URL:https://econ.biu.ac.il/sites/econ/files/working-papers/2022-02.pdf
+File-Format: Application/pdf
+File-Function: Working paper
+Number: 2022-02
+Classification-JEL:  C01, C02, E01, E30, N10
+Keywords:  Linear Interpolation, Random Walk, Shock-Persistence, Nonstationary series, Periodic nonstationarity, Stationary series, Prewar US Time Series
+Handle: RePEc:biu:wpaper:2022-02

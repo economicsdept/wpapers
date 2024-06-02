@@ -1,0 +1,23 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Ziv Hellman
+Author-X-Name-First:Ziv 
+Author-X-Name-Last: Hellman
+Author-Email: Ziv.Hellman@biu.ac.il
+Author-Workplace-Name: Bar-Ilan University
+Author-Name: Ilan Nehama
+Author-X-Name-First: Ilan
+Author-X-Name-Last: Nehama 
+Author-Email: ilan.nehama@biu.ac.il
+Author-Workplace-Name: Bar-Ilan University
+Author-Name: Omer Edhan
+Author-X-Name-First: Omer
+Author-X-Name-Last: Edhan 
+Title: Making the Most of Potential: Potential Games and Genotypic Convergence 
+Abstract: We consider genotypic convergence of populations and show that under fixed fitness asexual and haploid sexual populations attain monomorphic convergence (even with linkage disequilibrium) to basins of attraction with locally exponential convergence rates; the same convergence obtains in single locus diploid sexual reproduction but to polymorphic populations. Furthermore, we show that there is a unified underlying theory underlying these convergences: all of them can be interpreted as instantiations of players in a potential game implementing a multiplicative weights updating algorithm to converge to equilibrium, making use of the Baum–Eagon Theorem. To analyse varying environments, we introduce the concept of ‘virtual convergence’, under which, even if fixation is not attained, the population nevertheless achieves the fitness growth rate it would have had under convergence to an optimal genotype. Virtual convergence is attained by asexual, haploid sexual, and multi-locus diploid reproducing populations, even if environments vary arbitrarily. We also study conditions for true monomorphic convergence in asexually reproducing populations in varying environments.
+Length:	44 pages
+Creation-Date:  2020-05
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2020-05_0.pdf
+File-Format: Application/pdf
+File-Function: Working paper
+Number: 2020-05
+Handle: RePEc:biu:wpaper:2020-05

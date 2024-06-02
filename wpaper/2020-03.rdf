@@ -1,0 +1,20 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Ziv Hellman 
+Author-X-Name-First: Ziv    
+Author-X-Name-Last: Hellman  
+Author-Email: Ziv.Hellman@biu.ac.il
+Author-Workplace-Name: Bar-Ilan University
+Author-Name: Yehuda John Levy
+Author-X-Name-First: Yehuda John  
+Author-X-Name-Last: Levy
+Title: Equilibria Existence in Bayesian Games: Climbing the Countable Borel Equivalence Relation Hierarchy. 
+Abstract: The solution concept of a Bayesian equilibrium of a Bayesian game is inherently an interim concept. The corresponding ex ante solution concept has been termed Harsányi equilibrium; examples have appeared in the literature showing that there are Bayesian games with uncountable state spaces that have no Bayesian approximate equilibria but do admit Harsányi approximate equilibrium, thus exhibiting divergent behaviour in the ex ante and interim stages. Smoothness, a concept from descriptive set theory, has been shown in previous works to guarantee the existence of Bayesian equilibria. We show here that higher rungs in the countable Borel equivalence relation hierarchy can also shed light on equilibrium existence. In particular, hyperfiniteness, the next step above smoothness, is a sufficient condition for the existence of Harsányi approximate equilibria in purely atomic Bayesian games.
+Length:	32 pages
+Creation-Date:  2020-07
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2020-03.pdf
+File-Format: Application/pdf
+File-Function: Working paper
+Number: 2020-03
+Classification-JEL: 
+Keywords:  Bayesian games; Equilibrium existence; Borel equivalence relations
+Handle: RePEc:biu:wpaper:2020-03

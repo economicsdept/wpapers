@@ -1,0 +1,20 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name:   Ziv Hellman 
+Author-X-Name-First:  Ziv 
+Author-X-Name-Last: Hellman
+Author-Email: ziv.hellman@biu.ac.il
+Author-Workplace-Name: Bar-Ilan University
+Author-Name:   Ron Peretz
+Author-X-Name-First:  Ron 
+Author-X-Name-Last:  Peretz
+Title: Values for Cooperative Games over Graphs and Games With Inadmissible Coalitions
+Abstract: We suppose that players in a cooperative game are located within a graph structure, such as a social network or supply route, that limits coalition formation to coalitions along connected subsets within the graph. This in turn leads to a more general study of coalitional games in which there are arbitrary limitations on the collections of coalitions that may be formed. Within this context we define a generalisation of the Shapley value that is studied from an axiomatic perspective. The resulting ‘graph value’ (and ‘S-value’ in the general case) is endogenously asymmetric, with the automorphism group of the graph playing a crucial role in determining the relative values of players.
+Length:  25 pages
+Creation-Date:  2015-04
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2015-04_0.pdf
+File-Format: Application/pdf
+File-Function: Working paper
+Number: 2015-04
+Classification-JEL:C71, D46, D72.
+Keywords:Shapley value, network games.
+Handle: RePEc:biu:wpaper:2015-04
