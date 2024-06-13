@@ -1,6 +1,9 @@
 ﻿Template-type: ReDIF-Archive 1.0
 Handle: RePEc:biu
 Name: Department of Economics, Bar-Ilan University
-Maintainer-Email: Economics.Dept@biu.ac.il
+Maintainer-Name: Department of Economics
+Maintainer-Name: Igal Milchtaich
+Maintainer-Email: economics.dept@biu.ac.il
+Maintainer-Email: igal.milchtaich@biu.ac.il
 Description: This archive collects working papers from the Departments of Economics of Bar-Ilan University
-URL: https://github.com/economicsdept/wpapers.git
+URL: https://github.com/economicsdept/wpapers.github.io
